@@ -2,7 +2,7 @@
     <string name="app_name">Astha User</string>
     <string name="login">Login</string>
     <string name="or_use_google_signing">Or, Use Google signing</string>
-    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="enter_your_Mail">Enter Your Mail Address</string>
     <string name="enter_your_name">Enter Your Name</string>
     <string name="forget_password">Forget Password?</string>
     <string name="create_your_profile">Create Your Profile</string>
